@@ -34,7 +34,7 @@ a{
     box-shadow: -5px 5px 0px 0px rgba(112, 91, 12, 1);
 }
 body{
-    background:url("/img/bg_noise.jpg");
+    background:url("img/bg_noise.jpg");
 }
 .container{
     max-width:95%;
@@ -42,7 +42,7 @@ body{
 }
 /* HEADLINE */
 .head-line{
-   background:url('/img/hero-posters.png') no-repeat top right;
+   background:url('img/hero-posters.png') no-repeat top right;
     min-height: 80vh;
     padding:40px 50px;
 }
@@ -111,7 +111,7 @@ body{
 /* STICKY SECTİON */
 section.sticky{
     height: auto;
-    background:url("/img/bg_noise.jpg");
+    background:url("img/bg_noise.jpg");
     display:flex;
     justify-content: center;
     align-items: center;
@@ -156,7 +156,7 @@ section.sticky form .btn-sticky{
 }
 /* SECTION CARD IMAGE */
 section.card-image{
-    background:url("/img/gradient-bg.png") no-repeat top;
+    background:url("img/gradient-bg.png") no-repeat top;
     margin-top:40px;
     padding-top:69px;
 }
@@ -292,7 +292,7 @@ section.info.top-img{
     margin-top:0;
     background-color:transparent;
     padding-top:50px;
-    background:url(/img/gradient-bg.png) no-repeat top;
+    background:url(img/gradient-bg.png) no-repeat top;
 }
 /* SECTION PROGRAM */
 section.programs-section{
@@ -363,7 +363,7 @@ section.footer .container .faq li a{
     div.head-line {
         padding-left:10px;
         padding-right:10px;
-        background:url('/img/bg_layeredmask_yellow.png') no-repeat right top;
+        background:url('img/bg_layeredmask_yellow.png') no-repeat right top;
     }
     div.head-line .container .header .logo{
         width:110px;
